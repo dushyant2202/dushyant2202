@@ -1,6 +1,4 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/97454783/224529089-93413bdb-a85c-469d-b58b-fc1e32bdf7fb.png)
-<h1 align="center">Hi 👋, I'm Dushyant</h1>
-<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97454783/224529199-bd59e604-9265-4cd9-99ff-67259b8cc5fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyant2202&label=Profile%20views&color=0e75b6&style=flat" alt="dushyant2202" /> </p>
