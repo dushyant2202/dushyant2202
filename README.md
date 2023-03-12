@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/97454783/224528894-7c3bb49a-037a-47ac-b70b-d37badc7636d.png)
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 <h3 align="center">A passionate Developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen")
