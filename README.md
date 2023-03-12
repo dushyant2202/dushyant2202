@@ -1,7 +1,8 @@
-![github-header-image (1)](https://user-images.githubusercontent.com/97454783/224528894-7c3bb49a-037a-47ac-b70b-d37badc7636d.png)
+![github-header-image (3)](https://user-images.githubusercontent.com/97454783/224529089-93413bdb-a85c-469d-b58b-fc1e32bdf7fb.png)
+
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 <h3 align="center">A passionate Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1D_l8rZq2arlCwj7i-LNPz&ust=1678690524247000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiv7tTn1f0CFQAAAAAdAAAAABAE")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyant2202&label=Profile%20views&color=0e75b6&style=flat" alt="dushyant2202" /> </p>
 
