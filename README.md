@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 <h3 align="center">A passionate Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1D_l8rZq2arlCwj7i-LNPz&ust=1678690524247000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiv7tTn1f0CFQAAAAAdAAAAABAE")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97454783/224529199-bd59e604-9265-4cd9-99ff-67259b8cc5fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyant2202&label=Profile%20views&color=0e75b6&style=flat" alt="dushyant2202" /> </p>
 
