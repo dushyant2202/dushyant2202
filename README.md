@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [AI chatbot](https://github.com/dushyant2202/AI-chatbot)
 
-- 🌱 I’m currently learning **javascript,docker,aws,Main framework**
-
-- 👯 I’m looking to collaborate on **Gsoc organizations**
+- 🌱 I’m currently learning **javascript,docker,Main framework**
 
 - 💬 Ask me about **Web,Py,Rpa**
 
 - 📫 How to reach me **dushyspace@gmail.com**
 
-- ⚡ Fun fact **I'm Batman**
+- ⚡ **I'm Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
