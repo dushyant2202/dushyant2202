@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [AI chatbot](https://github.com/dushyant2202/AI-chatbot)
 
-- 🌱 I’m currently learning **javascript,docker,Main framework**
+- 🌱 I’m currently learning **kubernetes,docker,Main framework**
 
-- 💬 Ask me about **Web,Py,Rpa**
+- 💬 Ask me about **Web,Z/OS,Rpa**
 
 - 📫 How to reach me **dushyspace@gmail.com**
 
